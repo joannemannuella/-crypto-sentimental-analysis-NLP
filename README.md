@@ -1,4 +1,4 @@
-![Stock Sentiment](Images/sentimental.jpeg)
+![Stock Sentiment]([Images/sentimental.jpeg](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/images/sentimental.jpeg))
 
 ## Background
 
@@ -12,7 +12,7 @@ I did the following tasks:
 2. [Natural Language Processing](#2---Natural-Language-Processing)
 3. [Named Entity Recognition](#3---Named-Entity-Recognition).
 
-Using Jupyter Notebook [crypto sentiment](crypto_sentiment.ipynb) and run following:
+Using Jupyter Notebook [crypto sentiment]([crypto_sentiment.ipynb](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/crypto_sentiment.ipynb)) and run following:
 
 
 1. Sentiment Analysis
@@ -52,13 +52,13 @@ Use descriptive statistics to answer the following questions:
 
  1. Using NLTK libraries
  2. Using NLTK and Python to tokenize the text for each coin:
-    *Removing Punctuation
+    * Removing Punctuation
     
-    *lowercased each words
+    * lowercased each words
     
-    *Removing stop words
+    * Removing stop words
     
-    *Lemmatize words
+    * Lemmatize words
     
 
 
@@ -83,4 +83,4 @@ Use descriptive statistics to answer the following questions:
     *Visualizers - Displacy
 
 
-**[PDF file for better visualisation](crypto_senti… (2) - JupyterLab.pdf)**
+**[PDF file for better visualisation](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/crypto_senti%E2%80%A6%20(2)%20-%20JupyterLab.pdf)**
