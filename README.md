@@ -1,4 +1,4 @@
-![Stock Sentiment](Images/sentimental.jpeg](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/images/sentimental.jpeg)
+![Stock Sentiment](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/images/sentimental.jpeg)
 
 ## Background
 
@@ -78,9 +78,9 @@ Use descriptive statistics to answer the following questions:
 
 3.Named Entity Recognition - spaCy
 
-    *Named Entity Recognition - NER
+    * Named Entity Recognition - NER
     
-    *Visualizers - Displacy
+    * Visualizers - Displacy
 
 
 **[PDF file for better visualisation](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/crypto_senti%E2%80%A6%20(2)%20-%20JupyterLab.pdf)**
