@@ -48,7 +48,7 @@ Use descriptive statistics to answer the following questions:
 
 2. Natural Language Processing - Natural Language Toolkit - NTLK
 
-**a.Tokenizing Words & Sentences - Tokenizing**
+**a. Tokenizing Words & Sentences - Tokenizing**
 
  1. Using NLTK libraries
  2. Using NLTK and Python to tokenize the text for each coin:
@@ -78,9 +78,9 @@ Use descriptive statistics to answer the following questions:
 
 3.Named Entity Recognition - spaCy
 
-    * Named Entity Recognition - NER
+  * Named Entity Recognition - NER
     
-    * Visualizers - Displacy
+  * Visualizers - Displacy
 
 
 **[PDF file for better visualisation](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/crypto_senti%E2%80%A6%20(2)%20-%20JupyterLab.pdf)**
