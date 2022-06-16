@@ -1,4 +1,4 @@
-![Stock Sentiment]([Images/sentimental.jpeg](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/images/sentimental.jpeg))
+![Stock Sentiment](Images/sentimental.jpeg](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/images/sentimental.jpeg)
 
 ## Background
 
