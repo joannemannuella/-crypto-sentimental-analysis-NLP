@@ -12,7 +12,7 @@ I did the following tasks:
 2. [Natural Language Processing](#2---Natural-Language-Processing)
 3. [Named Entity Recognition](#3---Named-Entity-Recognition).
 
-Using Jupyter Notebook [crypto sentiment]([crypto_sentiment.ipynb](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/crypto_sentiment.ipynb)) and run following:
+Using Jupyter Notebook [crypto sentiment](crypto_sentiment.ipynb](https://github.com/joannemannuella/-crypto-sentimental-analysis-NLP/blob/main/crypto_sentiment.ipynb) and run following:
 
 
 1. Sentiment Analysis
